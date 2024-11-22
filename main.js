@@ -1,3 +1,3 @@
 function log(value) {
-    console.log(value)
+    console.log(value);
 }
